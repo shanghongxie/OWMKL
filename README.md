@@ -3,7 +3,7 @@
 - Authors: **Shanghong Xie<sup>a</sup> (sx2168@columbia.edu), Thaddeus Tarpey <sup>b</sup>, Eva Petkova <sup>b</sup>, and R. Todd Ogden <sup>a</sup>**
 - Affiliations: 
   + 1. **Department of Biostatistics, Mailman School of Public Health, Columbia University, New York**
-  + 2. **Division of Biostatistics, Department of Population Health, New York University, New York **
+  + 2. **Division of Biostatistics, Department of Population Health, New York University, New York**
   
   
 ## Setup Requirements
