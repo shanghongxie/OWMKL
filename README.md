@@ -17,7 +17,7 @@
 
 Main scripts:
 
-simulation_vignette.m: examples of conducing simulations using OWMKL, AOL, and OWL.
+simulation_vignette.m: examples of conducting simulations using OWMKL, AOL, and OWL.
 
 simulation_generate_data.m: function to generate simulated data sets
 
