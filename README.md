@@ -1,5 +1,7 @@
 # Matlab toolbox for Outcome Weighted Multiple Kernel Learning (OWMKL)
 
+<img src="https://img.shields.io/badge/Study%20Status-Results%20Available-yellow.svg" alt="Study Status: Results Available"> 
+
 - Authors: **Shanghong Xie<sup>a</sup> (sx2168@columbia.edu), Thaddeus Tarpey <sup>b</sup>, Eva Petkova <sup>b</sup>, and R. Todd Ogden <sup>a</sup>**
 - Affiliations: 
   + 1. **Department of Biostatistics, Mailman School of Public Health, Columbia University, New York**
