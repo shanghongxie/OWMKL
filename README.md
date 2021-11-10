@@ -11,7 +11,7 @@
 ## Setup Requirements
 - Matlab 
 - Download all the Matlab scripts (.m) in Code folder and put them in the same directory. 
-- Some code was modified based on SimpleMKL Toolbox (http://asi.insa-rouen.fr/enseignants/~arakoto/code/mklindex.html)
+- Some scripts were modified based on SimpleMKL Toolbox (http://asi.insa-rouen.fr/enseignants/~arakoto/code/mklindex.html)
 
 ## Code Instructions
 
