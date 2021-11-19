@@ -82,7 +82,7 @@ variablevec={1 2 (3:12) (3:12) (3:12) (13:22) (13:22) (13:22) (23:32) (23:32) (2
 
 
 %------------------------------------------------------------------------
-%                  Fit OWMKL: call owmkl_cv to do cross-validation
+%                  Fit OWMKL: call owmkl
 %------------------------------------------------------------------------
 
 classcode=[1 -1];
@@ -114,7 +114,7 @@ eta
 
 
 %------------------------------------------------------
-% For comparisons: AOL call function aol_cv to do CV
+% For comparisons: AOL call function aol
 %------------------------------------------------------
 
 kernel='poly';
@@ -143,7 +143,7 @@ vfun = mean((rulepred==Aval).*scoreweightval);
 
 
 %------------------------------------------------------
-% For comparisons: OWL call function owl_cv to do CV
+% For comparisons: OWL call function owl
 %------------------------------------------------------
 
 kernel='poly';
