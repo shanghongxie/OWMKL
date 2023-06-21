@@ -10,7 +10,7 @@ Individualized treatment rules (ITRs) recommend treatments that are tailored spe
   + 1. **Department of Biostatistics, Mailman School of Public Health, Columbia University, New York**
   + 2. **Division of Biostatistics, Department of Population Health, New York University, New York**
     3. 
-- Manuscript: Xie S, Tarpey T, Petkova E and Ogden RT (2021). [Multiple Domain and Multiple Kernel Outcome-Weighted Learning for Estimating Individualized Treatment Regimes.](https://github.com/shanghongxie/INL) Annals of Applied Statistics 31(4), 1375-1383.   
+- Manuscript: Xie S, Tarpey T, Petkova E and Ogden RT (2021). [Multiple Domain and Multiple Kernel Outcome-Weighted Learning for Estimating Individualized Treatment Regimes.](https://github.com/shanghongxie/INL) Jounral of Computational and Graphical Statistics 31(4), 1375-1383.   
   
 ## Setup Requirements
 - Matlab 
