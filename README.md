@@ -19,16 +19,16 @@ Individualized treatment rules (ITRs) recommend treatments that are tailored spe
 
 ## Code Instructions
 
-*Main scripts*:
+**Main scripts**:
 
-- *owmkl.m*: function to implement OWMKL , tuning parameters are chosen by n-fold cross-validation
+- **owmkl.m**: function to implement OWMKL , tuning parameters are chosen by n-fold cross-validation
 
-- *simulation_vignette.m*: examples of conducting simulation studies using OWMKL, AOL, and OWL.
+- **simulation_vignette.m**: examples of conducting simulation studies using OWMKL, AOL, and OWL.
 
-- *simulation_generate_data.m*: function to generate simulated data sets
+- **simulation_generate_data.m**: function to generate simulated data sets
 
 Comparison methods
-- *aol.m*: function to implement AOL, tuning parameters are chosen by n-fold cross-validation
+- **aol.m**: function to implement AOL, tuning parameters are chosen by n-fold cross-validation
 
-- *owl.m*: function to implement OWL, tuning parameters are chosen by n-fold cross-validation
+- **owl.m**: function to implement OWL, tuning parameters are chosen by n-fold cross-validation
 
